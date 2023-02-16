@@ -15,9 +15,9 @@ Once you have finished going through the prompts and have made your selections, 
 
  
 ## **Below are screenshots of my website:**
-![picture](/assets/Screenshot_1.png)
+![picture](/Assets/Screenshot_1.png)
 ---
-![picture](/assets/Screenshot_3.png)
+![picture](/Assets/Screenshot_3.png)
 ---
 
 ## **Here is a link to the website:**
